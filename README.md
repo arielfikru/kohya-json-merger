@@ -37,7 +37,3 @@ python kjmerge.py data_a.json data_b.json
 ## License
 
 This script is provided under the [MIT License](LICENSE).
-
----
-
-Feel free to customize this README as needed and ensure to include any relevant information specific to your project or use case.
